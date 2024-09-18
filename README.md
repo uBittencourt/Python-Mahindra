@@ -17,6 +17,9 @@
 * Vinicius Fernandes Tavares Bittencourt (RM558909)
 * Weslley Oliveira Cardoso (RM557927)
 
+### Link Repositório
+https://github.com/uBittencourt/Python-Mahindra
+
 ## Descrição
 O projeto apresentado tem como objetivo informar ao usuário que irá utilizar sobre as informações da temporada da Fórmula E, como o ranking dos pilotos, informações sobre as corridas que aconteceram na temporada e dados sobre cada piloto. Afim de, poder atrair o público com uma boa gama de informações.
 
