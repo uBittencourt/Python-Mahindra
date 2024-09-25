@@ -14,6 +14,7 @@
 1ESPI - Engenharia de Software
 * João Henrique Sena Hoffmann (RM550763)
 * Lucas Ludovico Cabral (RM554589)
+* Rafael Teofilo Lucena (RM555600)
 * Vinicius Fernandes Tavares Bittencourt (RM558909)
 * Weslley Oliveira Cardoso (RM557927)
 
@@ -22,6 +23,9 @@ https://github.com/uBittencourt/Python-Mahindra
 
 ## Descrição
 O projeto apresentado tem como objetivo informar ao usuário que irá utilizar sobre as informações da temporada da Fórmula E, como o ranking dos pilotos, informações sobre as corridas que aconteceram na temporada e dados sobre cada piloto. Afim de, poder atrair o público com uma boa gama de informações.
+
+## Diagrama de Caso de Uso
+![diagrama-caso-de-uso](./img/diagrama_caso_de_uso.jpg)
 
 ## Menu de Informações
 O menu apresentado ao usuário ao iniciar o projeto, contém as seguintes funcionalidades:
